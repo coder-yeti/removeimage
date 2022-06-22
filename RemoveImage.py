@@ -12,7 +12,7 @@ def main():
 	path = input("Enter Path To Delete")
 
 	# specify the days
-	hours = int(input("Enter hour value"))
+	hours = 1
 
 	# converting days to seconds
 	# time.time() returns current time in seconds
